@@ -45,8 +45,11 @@ section {
   color: #6e1834;
 }
 
-video {
+.project-video {
+  width: 100%;
+  max-width: 700px;
   margin-top: 1rem;
   border-radius: 10px;
+  display: block;
   box-shadow: 0 2px 10px rgba(0,0,0,0.1);
 }
