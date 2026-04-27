@@ -33,3 +33,20 @@ section {
   border-radius: 10px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
+
+.arrow-link {
+  margin-left: 8px;
+  font-size: 1rem;
+  color: #861f41;
+  text-decoration: none;
+}
+
+.arrow-link:hover {
+  color: #6e1834;
+}
+
+video {
+  margin-top: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
